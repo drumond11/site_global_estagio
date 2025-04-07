@@ -1,0 +1,13 @@
+.link_contact{
+    text-decoration: underline;
+}
+.botao_denuncia{
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px; 
+    font-family: Arial, sans-serif;
+    border: #E19F41;
+    background-color:  #E19F41;
+    font-size: 16px;
+    padding: 6px 12px;
+}

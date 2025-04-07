@@ -1,0 +1,10 @@
+$(function(){
+    $("#formPreco").ajaxForm(function(data){
+        $(".table").show();
+        $("#vCaracteristicas").text(formatNum(data.caracteristicas)+"€").addClass('text-end');
+        $("#vEstado").text(formatNum(data.estado)+"€").addClass('text-end');
+        $("#vTerreno").text(formatNum(data.terreno)+"€").addClass('text-end');
+        $("#vBruto").text(formatNum(data.bruto)+"€").addClass('text-end');
+        $("#vTotal").text(formatNum(data.total)+"€").addClass('text-end');
+    });
+});

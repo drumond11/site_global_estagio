@@ -1,0 +1,11 @@
+.year-row {
+    cursor: pointer;
+    background-color: #f8f9fa;
+}
+.year-row:hover {
+    background-color: #e9ecef;
+}
+
+.container {
+    flex: 1;
+}

@@ -1,0 +1,218 @@
+{
+	"habitacaoPropria": {
+		"continente": [
+			{
+				"ate": 101917,
+                "taxa": 0,
+                "parcela": 0
+			},
+			{
+				"ate": 139412,
+				"taxa": 2,
+				"parcela": 2038.34
+			},
+			{
+				"ate": 190086,
+				"taxa": 5,
+				"parcela": 6220.7
+			},
+			{
+				"ate": 316772,
+				"taxa": 7,
+				"parcela": 10022.42
+			},
+			{
+				"ate": 633453,
+				"taxa": 8,
+				"parcela": 13190.14
+			},
+			{
+				"ate": 1102920,
+				"taxa": 6,
+                "parcela": 0
+			},
+			{
+                "ate": null,
+				"taxa": 7.5,
+                "parcela": 0
+			}
+		],
+		"ilhas": [
+			{
+				"ate": 127396,
+                "taxa": 0,
+                "parcela": 0
+			},
+			{
+				"ate": 174265,
+				"taxa": 2,
+				"parcela": 2547.92
+			},
+			{
+				"ate": 237608,
+				"taxa": 5,
+				"parcela": 7775.87
+			},
+			{
+				"ate": 395965,
+				"taxa": 7,
+				"parcela": 12528.03
+			},
+			{
+				"ate": 791816,
+				"taxa": 8,
+				"parcela": 16487.68
+			},
+			{
+				"ate": 1378650,
+				"taxa": 6,
+                "parcela": 0
+			},
+			{
+                "ate": null,
+				"taxa": 7.5,
+                "parcela": 0
+			}
+		]
+	},
+    "habitacaoSecundaria":{
+        "continente":[
+			{
+				"ate": 101917,
+				"taxa": 1,
+				"parcela": 0
+			},
+			{
+				"ate": 139412,
+				"taxa": 2,
+				"parcela": 1019.17
+			},
+			{
+				"ate": 190086,
+				"taxa": 5,
+				"parcela": 5201.53
+			},
+			{
+				"ate": 316772,
+				"taxa": 7,
+				"parcela": 9003.25
+			},
+			{
+				"ate": 607528,
+				"taxa": 8,
+				"parcela": 12170.97
+			},
+			{
+				"ate": 1102920,
+				"taxa": 6,
+				"parcela": 0
+			},
+			{
+				"ate": null,
+				"taxa": 7.5,
+				"parcela": 0
+			}
+		],
+		"ilhas":[
+			{
+				"ate": 127396,
+				"taxa": 1,
+				"parcela": 0
+			},
+			{
+				"ate": 174265,
+				"taxa": 2,
+				"parcela": 1273.96
+			},
+			{
+				"ate": 237608,
+				"taxa": 5,
+				"parcela": 6501.91
+			},
+			{
+				"ate": 395965,
+				"taxa": 7,
+				"parcela": 11254.07
+			},
+			{
+				"ate": 759410,
+				"taxa": 8,
+				"parcela": 15213.72
+			},
+			{
+				"ate": 1378650,
+				"taxa": 6,
+				"parcela": 0
+			},
+			{
+				"ate": null,
+				"taxa": 7.5,
+				"parcela": 0
+			}
+		]
+    },
+	"predioRustico":{
+		"continente": [
+			{
+				"ate": null,
+				"taxa": 5,
+				"parcela": 0
+			}
+		],
+		"ilhas": [
+			{
+				"ate": null,
+				"taxa": 5,
+				"parcela": 0
+			}
+		]
+	},
+	"prediosUrbanosAquisicoesOnerosas": {
+		"continente": [
+			{
+				"ate": null,
+				"taxa": 6.5,
+				"parcela": 0
+			}
+		],
+		"ilhas": [
+			{
+				"ate": null,
+				"taxa": 6.5,
+				"parcela": 0
+			}
+		]
+	},
+	"territorioFavoravelNaoParticular": {
+		"continente": [
+			{
+				"ate": null,
+				"taxa": 10,
+				"parcela": 0
+			}
+		],
+		"ilhas": [
+			{
+				"ate": null,
+				"taxa": 10,
+				"parcela": 0
+			}
+		]
+	},
+	"territorioFavoravelNaoParticularControlado": {
+		"continente": [
+			{
+				"ate": null,
+				"taxa": 10,
+				"parcela": 0
+			}
+		],
+		"ilhas": [
+			{
+				"ate": null,
+				"taxa": 10,
+				"parcela": 0
+			}
+		]
+	}
+}

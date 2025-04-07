@@ -1,0 +1,67 @@
+ul.horizontal{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+ul.horizontal li{
+    display: inline-block;
+}
+
+.navbar-align{
+    margin-top: 0.6em;
+}
+
+td{
+    text-align: right;
+}
+
+a {
+    color: inherit; /* This will inherit the color from the parent element */
+    text-decoration: none; /* This will remove the underline */
+}
+
+a:visited {
+    color: inherit; /* This will maintain the same color as non-visited links */
+}
+
+button i.fa {
+    vertical-align: inherit;
+    font-size: 20px;
+}
+
+.flag-icon {
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.flag-icon-pt {
+    background-image: url(/assets/images/flags/portugal.png);
+}
+.flag-icon-uk {
+    background-image: url(/assets/images/flags/united-kingdom.png);
+}
+.flag-icon-fr {
+    background-image: url(/assets/images/flags/france.png);
+}
+.flag-icon-de {
+    background-image: url(/assets/images/flags/germany.png);
+}
+
+.btn-link{
+    --bs-btn-font-weight: 400;
+    --bs-btn-color: #a3a7ac;
+    --bs-btn-bg: transparent;
+    --bs-btn-border-color: transparent;
+    --bs-btn-hover-color: var(--bs-link-hover-color);
+    --bs-btn-hover-border-color: transparent;
+    --bs-btn-active-color: var(--bs-link-hover-color);
+    --bs-btn-active-border-color: transparent;
+    --bs-btn-disabled-color: #6c757d;
+    --bs-btn-disabled-border-color: transparent;
+    --bs-btn-box-shadow: 0 0 0 #000;
+    --bs-btn-focus-shadow-rgb: 49, 132, 253;
+    --bs-link-hover-color: #a3a7ac;
+}

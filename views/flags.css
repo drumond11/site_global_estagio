@@ -1,0 +1,30 @@
+.flag-icon {
+    width: 25px;
+    height: 25px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.flag-icon-pt {
+    background-image: url(../assets/images/flags/portugal.png);
+}
+
+.flag-icon-uk {
+    background-image: url(../assets/images/flags/united-kingdom.png);
+}
+
+.flag-icon-fr {
+    background-image: url(../assets/images/flags/france.png);
+}
+
+.flag-icon-de {
+    background-image: url(../assets/images/flags/germany.png);
+}
+
+.flag-icon-ru {
+    background-image: url(../assets/images/flags/russia.png);
+}
+
+.flag-icon-zh-CN {
+    background-image: url(../assets/images/flags/china.png);
+}

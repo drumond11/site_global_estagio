@@ -1,0 +1,72 @@
+/* Botão para ocupar a largura completa */
+.btn-full-width {
+    width: 100%;
+}
+/* Estilos para a tabela */
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: none; /* Remover a borda */
+}
+
+.table th,
+.table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+    text-align: left; /* Alinhar o conteúdo à esquerda */
+}
+
+.table thead th {
+    vertical-align: bottom;
+    border-bottom: 2px solid #dee2e6;
+}
+
+.table tbody + tbody {
+    border-top: 2px solid #dee2e6;
+}
+
+.table .table {
+    background-color: #fff;
+}
+
+.table-sm th,
+.table-sm td {
+    padding: 0.3rem;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+
+.table-bordered th,
+.table-bordered td {
+    border: 1px solid #dee2e6;
+}
+
+.table-bordered thead th,
+.table-bordered thead td {
+    border-bottom-width: 2px;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background-color: rgba(0, 0, 0, 0.05);
+}
+
+/* Estilos para a seção de resultado */
+#resultado {
+    margin-top: 1.5rem;
+    padding: 1rem;
+    border-radius: 0.25rem;
+}
+
+#resultado table {
+    margin-bottom: 1rem;
+}
+
+#resultado .alert {
+    margin-bottom: 1rem;
+}

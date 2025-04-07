@@ -1,0 +1,5 @@
+jsconfig.json
+/vendor
+composer.phar
+/.idea
+/export

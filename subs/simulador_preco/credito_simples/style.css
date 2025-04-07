@@ -1,0 +1,30 @@
+body {
+    padding-top: 20px;
+}
+
+.slider-value {
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+
+.spread-note {
+    font-size: 1rem;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+#spreadContainer {
+    margin-top: 20px;
+}
+
+#resultado {
+    margin-top: 40px;
+}
+
+.btn {
+    margin-top: 10px;
+}
+
+.container {
+    flex: 1;
+}

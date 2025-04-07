@@ -1,0 +1,5 @@
+.link-cor {
+    color: #59a1ff; /* Muda cor do texto */
+    padding: 2px 5px; /* Ajusta o padding */
+    text-decoration: none; /* Remove o sublinhado */
+}
