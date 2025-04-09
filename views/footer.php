@@ -127,7 +127,14 @@
                     <br>
                     <a class="text-muted link-info" href="https://www.​madeira.gov.pt/cacc"
                         target="_blank">www.​madeira.gov.pt/cacc</a>
-                </div>
+                    <br>
+                    <br>
+                    Centro de arbitragem de Conflitos de consumo do Algarve
+                    <br>
+                    <br>   
+                        <a class="text-muted link-info" href="https://www.consumoalgarve.pt"
+                        target="_blank">www.consumoalgarve.pt</a>                
+                    </div>
                 <div class="modal-footer">
                     <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
                 </div>
