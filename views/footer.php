@@ -6,12 +6,66 @@
                     Litígios</a>
             </div>
         </div>
+        <div class="row text-center d-flex justify-content-center align-items-center mt-3">
+    <div class="col-lg">
+        <a href="#" data-bs-toggle="modal" data-bs-target="#politicaModal" class="text-muted link-info d-block">Política de Privacidade</a>
+    </div>
+</div> 
         <div class="row text-center d-flex align-items-center">
             <div class="col-lg">
                 <a class="text-muted link-info" href="https://www.livroreclamacoes.pt" target="_blank">Livro de
                     Reclamações</a>
             </div>
         </div>
+        <div class="modal fade" id="politicaModal" tabindex="-1" aria-labelledby="modalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title">Política de Privacidade</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Fechar"></button>
+            </div>
+            <div class="modal-body" style="max-height: 70vh; overflow-y: auto;">
+                <p>Com a entrada em vigor do novo Regulamento Geral de Proteção de Dados (RGPD), vimos dar a conhecer as nossas práticas de privacidade e as opções disponíveis para a forma como os seus dados são recolhidos e utilizados.</p>
+
+                <p><strong>1. Quais as informações que recolhemos?</strong></p>
+                <p>Solicitamos informações de identificação quando pede um serviço, responde a um inquérito, troca correspondência connosco ou participa em determinadas outras atividades.<br>
+                Se não quiser fornecer as informações pessoais solicitadas, poderá não conseguir concluir a transação. Da mesma forma, quando visita os nossos Websites, recolhemos informações conhecidas como “clickstreams” (endereço IP, nome do domínio, etc.). Estas informações, combinadas com os dados que nos faculta, permitem-nos personalizar melhor as suas visitas.</p>
+
+                <p><strong>2. Com que fim usamos as informações que recolhemos?</strong></p>
+                <ul>
+                    <li>Para lhe fornecer informações sobre atualizações de imóveis, novos imóveis, newsletters e e-mails.</li>
+                    <li>Para lhe disponibilizar outras informações que possam ser do seu interesse.</li>
+                </ul>
+
+                <p><strong>3. Como protegemos as suas informações pessoais?</strong></p>
+                <p>Para garantir a segurança das suas informações pessoais, estabelecemos uma série de medidas de segurança e proteções. As suas informações pessoais são guardadas em redes seguras. Não obstante estas medidas, quando faculta informações pessoais na Internet, existe sempre um risco de que estas possam ser intercetadas e usadas por terceiros fora do nosso controlo. Fazemos todos os esforços para proteger as suas informações pessoais e a sua privacidade, no entanto não podemos garantir a segurança das informações que disponibilize através da Internet.</p>
+
+                <p><strong>4. Partilha de informações:</strong></p>
+                <p>Não vendemos as suas informações. Podemos partilhá-las com empresas que nos prestam serviços, exigindo que as mantenham seguras e confidenciais. Pode pedir para não partilharmos com terceiros.</p>
+
+                <p><strong>5. Links e Cookies:</strong></p>
+                <p>Os nossos Websites podem ter links para outros sites, com políticas de privacidade diferentes. Usamos cookies para melhorar os nossos Websites. Pode desativar cookies no seu navegador, mas isso pode afetar o uso de alguns serviços.</p>
+
+                <p><strong>6. Alterações à política:</strong></p>
+                <p>Podemos alterar esta política no futuro. Consulte o nosso Website regularmente para atualizações.</p>
+
+                <p><strong>7. Administração das informações:</strong></p>
+                <p>A AUGE MÁGICO UNIPESSOAL LDA AMI: 23602 administra as informações, com servidores em Portugal e Netherlands, seguindo a legislação de proteção de dados.</p>
+
+                <p><strong>8. Contacto:</strong><br>
+                AUGE MÁGICO UNIPESSOAL LDA AMI: 23602<br>
+                Estrada da Calçada, 24, 9240-218, 967924403<br>
+                Email: <a href="mailto:geral@d31imo.biz" class="text-muted link-info">geral@d31imo.biz</a></p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Fechar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+    
         <div class="row text-center d-flex align-items-center">
             <div class="col-lg">
                 <ul class="horizontal">
