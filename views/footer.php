@@ -6,7 +6,7 @@
                     Litígios</a>
             </div>
         </div>
-        <div class="row text-center d-flex justify-content-center align-items-center mt-3">
+        <div class="row text-center d-flex justify-content-center align-items-center">
     <div class="col-lg">
         <a href="#" data-bs-toggle="modal" data-bs-target="#politicaModal" class="text-muted link-info d-block">Política de Privacidade</a>
     </div>
@@ -124,15 +124,13 @@
                     <br>
                     Centro de Arbitragem de Conflitos de Consumo da Região Autónoma da Madeira
                     <br>
-                    <br>
                     <a class="text-muted link-info" href="https://www.​madeira.gov.pt/cacc"
                         target="_blank">www.​madeira.gov.pt/cacc</a>
                     <br>
                     <br>
                     Centro de arbitragem de Conflitos de consumo do Algarve
                     <br>
-                    <br>   
-                        <a class="text-muted link-info" href="https://www.consumoalgarve.pt"
+                    <a class="text-muted link-info" href="https://www.consumoalgarve.pt"
                         target="_blank">www.consumoalgarve.pt</a>                
                     </div>
                 <div class="modal-footer">
